@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+.env
+email_data.db
+credential2.json
+config.py
