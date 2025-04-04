@@ -1,2 +1,8 @@
-google-generativeai
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+oauth2client
 requests
+python-dotenv
+slack_sdk
+google-generativeai
